@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Realadityakumar
 - 👀 I’m interested in MERN Stack Development
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can contact me on <a href="https://www.linkedin.com/in/adityakumar5246/"> Linkedin</a>
 - 😄 Pronouns: He/Him
