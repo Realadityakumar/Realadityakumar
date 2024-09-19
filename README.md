@@ -1,3 +1,4 @@
+<center>
 # 💫 About Me:
 👋 Hi, I’m @Realadityakumar<br>👀 I’m interested in MERN Stack Development<br>🌱 I’m currently learning React<br>💞️ I’m looking to collaborate on ...<br>📫 You can contact me on Linkedin<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I sleep at 11PM
 
@@ -15,4 +16,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=realadityakumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</center>
