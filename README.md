@@ -1,6 +1,6 @@
 <center>
 # 💫 About Me:
-👋 Hi, I’m @Realadityakumar<br>👀 I’m interested in MERN Stack Development<br>🌱 I’m currently learning React<br>💞️ I’m looking to collaborate on ...<br>📫 You can contact me on Linkedin<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I sleep at 11PM
+👋 Hi, I’m @Realadityakumar<br>👀 I’m interested in MERN Stack Development<br>🌱 I’m currently learning React<br>💞️ I’m looking to collaborate on ...<br>📫 You can contact me on Linkedin<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I sleep before 11PM
 
 
 ## 🌐 Socials:
