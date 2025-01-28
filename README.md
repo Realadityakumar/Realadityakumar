@@ -63,5 +63,3 @@
 <p align="left">Hello World!!</p>
 
 ###
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Realadityakumar)](https://git.io/streak-stats)
