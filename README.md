@@ -1,5 +1,11 @@
-<h2 align="left"># 💫 About Me: 👋 Hi, I’m @Realadityakumar<br>👀 I’m interested in MERN Stack Development<br>🌱 I’m currently learning React<br>💞️ I’m looking to collaborate on ...<br>📫 You can contact me on Linkedin<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I sleep before 11PM</h2>
-
+About Me
+👋 Hello, I’m @Realadityakumar!
+✨ Passionate about building dynamic web applications with the MERN stack.
+🚀 Currently diving deep into React and sharpening my frontend development skills.
+🤝 Interested in collaborating on innovative projects—let’s create something awesome together!
+📩 Connect with me on LinkedIn for opportunities or just to chat.
+🙋‍♂️ Pronouns: He/Him
+⚡ Fun fact: I’m an early sleeper, always in bed before 11PM for a fresh start!
 ###
 
 <div align="center">
